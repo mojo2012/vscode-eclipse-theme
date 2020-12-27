@@ -1,9 +1,4 @@
 # Change Log
 
-All notable changes to the "vscode-eclipse-theme" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+## 0.2.5
+- Initial release, eclipse syntax colors and keymaps, macOS-like UI theme
