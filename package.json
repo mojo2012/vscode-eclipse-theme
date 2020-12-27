@@ -2,7 +2,7 @@
     "name": "vscode-eclipse-theme",
     "displayName": "vscode-eclipse-theme",
     "description": "Eclipse syntax color theme for vscode",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "author": {
         "email": "meister.fuchs@gmail.com",
         "name": "Matthias Fuchs",
