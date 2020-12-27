@@ -1,8 +1,8 @@
 {
     "name": "vscode-eclipse-theme",
-    "displayName": "vscode-eclipse-theme",
+    "displayName": "Eclipse Color theme and keymaps",
     "description": "Eclipse syntax color theme for vscode",
-    "version": "0.1.1",
+    "version": "0.2.4",
     "author": {
         "email": "meister.fuchs@gmail.com",
         "name": "Matthias Fuchs",
@@ -452,11 +452,6 @@
                 "when": "inDebugMode"
             },
             {
-                "key": "cmd+o",
-                "command": "-java.edit.organizeImports",
-                "when": "editorTextFocus && !editorReadnly"
-            },
-            {
                 "key": "alt+[Backquote]",
                 "command": "workbench.action.debug.continue",
                 "when": "inDebugMode"
@@ -520,46 +515,6 @@
                 "command": "-java.workspace.compile"
             },
             {
-                "key": "cmd+[BracketRight]",
-                "command": "-workbench.action.zoomIn"
-            },
-            {
-                "key": "shift+cmd+0",
-                "command": "-workbench.action.zoomIn"
-            },
-            {
-                "key": "cmd+numpad_subtract",
-                "command": "-workbench.action.zoomOut"
-            },
-            {
-                "key": "shift+cmd+-",
-                "command": "-workbench.action.zoomOut"
-            },
-            {
-                "key": "cmd+-",
-                "command": "-workbench.action.zoomOut"
-            },
-            {
-                "key": "cmd+numpad_add",
-                "command": "-workbench.action.zoomIn"
-            },
-            {
-                "key": "cmd+numpad0",
-                "command": "-workbench.action.zoomReset"
-            },
-            {
-                "key": "cmd+0",
-                "command": "editor.action.fontZoomReset"
-            },
-            {
-                "key": "cmd+[BracketRight]",
-                "command": "editor.action.fontZoomIn"
-            },
-            {
-                "key": "cmd+-",
-                "command": "editor.action.fontZoomOut"
-            },
-            {
                 "key": "shift+cmd+u",
                 "command": "editor.debug.action.selectionToRepl"
             },
@@ -617,33 +572,12 @@
                 "when": "editorTextFocus && !editorReadonly && supportedCodeAction =~ /(\\s|^)source\\.organizeImports\\b/"
             },
             {
-                "key": "cmd+k e",
-                "command": "-workbench.files.action.focusOpenEditorsView",
-                "when": "workbench.explorer.openEditorsView.active"
-            },
-            {
                 "key": "shift+cmd+e",
                 "command": "workbench.action.showAllEditors"
             },
             {
                 "key": "alt+cmd+tab",
                 "command": "-workbench.action.showAllEditors"
-            },
-            {
-                "key": "alt+1",
-                "command": "workbench.view.explorer"
-            },
-            {
-                "key": "shift+cmd+e",
-                "command": "-workbench.view.explorer"
-            },
-            {
-                "key": "alt+2",
-                "command": "workbench.view.debug"
-            },
-            {
-                "key": "shift+cmd+d",
-                "command": "-workbench.view.debug"
             },
             {
                 "key": "cmd+end",

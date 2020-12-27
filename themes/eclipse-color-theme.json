@@ -548,7 +548,7 @@
 				"markup.inline"
 			],
 			"settings": {
-				"foreground": "#007FFF"
+				"foreground": "#5F8FBF"
 			}
 		},
 		{
@@ -815,7 +815,7 @@
 				"comment.block.css"
 			],
 			"settings": {
-				"foreground": "#3F5FBF"
+				"foreground": "#5F8FBF"
 			}
 		},
 		{
@@ -938,7 +938,7 @@
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#5F8FBF"
+				"foreground": "#3F7F5F"
 			}
 		},
 		{
