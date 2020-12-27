@@ -8,14 +8,20 @@
         "name": "Matthias Fuchs",
         "url": "https://github.com/mojo2012"
     },
+    "bugs": {
+        "url": "https://github.com/mojo2012/vscode-eclipse-theme/issues"
+    },
+    "homepage": "https://github.com/mojo2012/vscode-eclipse-theme",
+    "license": "NU GENERAL PUBLIC LICENSE 3",
     "icon": "resources/eclipse.png",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/mojo2012/vscode-eclipse-theme"
     },
     "engines": {
         "vscode": "^1.52.0"
     },
+    "publisher": "mojo2012",
     "categories": [
         "Themes"
     ],
@@ -24,7 +30,7 @@
             {
                 "label": "Eclipse Color Theme",
                 "uiTheme": "vs",
-                "path": "./themes/color-theme.json"
+                "path": "./themes/eclipse-color-theme.json"
             }
         ]
     }
