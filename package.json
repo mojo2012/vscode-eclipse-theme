@@ -1,0 +1,31 @@
+{
+    "name": "vscode-eclipse-theme",
+    "displayName": "vscode-eclipse-theme",
+    "description": "Eclipse syntax color theme for vscode",
+    "version": "0.0.1",
+    "author": {
+        "email": "meister.fuchs@gmail.com",
+        "name": "Matthias Fuchs",
+        "url": "https://github.com/mojo2012"
+    },
+    "icon": "resources/eclipse.png",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Eclipse Color Theme",
+                "uiTheme": "vs",
+                "path": "./themes/color-theme.json"
+            }
+        ]
+    }
+}
