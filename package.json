@@ -2,7 +2,7 @@
     "name": "vscode-eclipse-theme",
     "displayName": "Eclipse Color theme and keymaps",
     "description": "Eclipse syntax color theme for vscode",
-    "version": "0.2.8",
+    "version": "0.2.9",
     "author": {
         "email": "meister.fuchs@gmail.com",
         "name": "Matthias Fuchs",
@@ -452,18 +452,8 @@
                 "when": "inDebugMode"
             },
             {
-                "key": "alt+[Backquote]",
-                "command": "workbench.action.debug.continue",
-                "when": "inDebugMode"
-            },
-            {
                 "key": "f5",
                 "command": "-workbench.action.debug.continue",
-                "when": "inDebugMode"
-            },
-            {
-                "key": "alt+x",
-                "command": "workbench.action.debug.stepOver",
                 "when": "inDebugMode"
             },
             {
@@ -472,18 +462,8 @@
                 "when": "inDebugMode"
             },
             {
-                "key": "alt+y",
-                "command": "workbench.action.debug.stepInto",
-                "when": "inDebugMode"
-            },
-            {
                 "key": "f11",
                 "command": "-workbench.action.debug.stepInto",
-                "when": "inDebugMode"
-            },
-            {
-                "key": "alt+c",
-                "command": "workbench.action.debug.stepOut",
                 "when": "inDebugMode"
             },
             {
