@@ -2,7 +2,7 @@
     "name": "vscode-eclipse-theme",
     "displayName": "Eclipse Color theme and keymaps",
     "description": "Eclipse syntax color theme for vscode",
-    "version": "0.2.7",
+    "version": "0.2.8",
     "author": {
         "email": "meister.fuchs@gmail.com",
         "name": "Matthias Fuchs",
@@ -521,11 +521,6 @@
             {
                 "key": "cmd+u",
                 "command": "workbench.debug.action.focusRepl"
-            },
-            {
-                "key": "shift+cmd+f",
-                "command": "-workbench.view.search",
-                "when": "!searchViewletVisible"
             },
             {
                 "key": "cmd+k",
