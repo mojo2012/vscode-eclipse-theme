@@ -509,6 +509,7 @@
 		//"window.activeBorder": null,
 		//"window.inactiveBorder": null
 	},
+	"semanticHighlighting": true,
 	"tokenColors": [
 		{
 			"scope": "emphasis",
@@ -783,6 +784,28 @@
 			],
 			"settings": {
 				"foreground": "#777777"
+			}
+		},
+		{
+			"scope": [
+				"support.constant.java-properties",
+				"meta.key-value.java-properties",
+				"source.java-properties"
+			],
+			"settings": {
+				"foreground": "#000000",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": [
+				"string.unquoted.java-properties",
+				"meta.key-value.java-properties",
+				"source.java-properties",
+			],
+			"settings": {
+				"foreground": "#2A00FF",
+				"fontStyle": "bold"
 			}
 		},
 		{
