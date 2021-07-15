@@ -2,7 +2,7 @@
     "name": "vscode-eclipse-theme",
     "displayName": "Eclipse Color theme and keymaps",
     "description": "Eclipse syntax color theme for vscode",
-    "version": "0.3.1",
+    "version": "0.3.2",
     "author": {
         "email": "meister.fuchs@gmail.com",
         "name": "Matthias Fuchs",
@@ -474,47 +474,13 @@
                 "when": "inDebugMode"
             },
             {
-                "key": "f5",
-                "command": "-workbench.action.debug.continue",
-                "when": "inDebugMode"
-            },
-            {
-                "key": "f6",
-                "command": "-workbench.action.debug.stepOver",
-                "when": "inDebugMode"
-            },
-            {
-                "key": "f11",
-                "command": "-workbench.action.debug.stepInto",
-                "when": "inDebugMode"
-            },
-            {
-                "key": "shift+f11",
-                "command": "-workbench.action.debug.stepOut",
-                "when": "inDebugMode"
-            },
-            {
-                "key": "shift+cmd+b",
-                "command": "-editor.debug.action.toggleBreakpoint",
-                "when": "editorTextFocus"
-            },
-            {
                 "key": "delete",
                 "command": "debug.removeBreakpoint",
                 "when": "breakpointsFocused && !breakpointSelected"
             },
             {
-                "key": "cmd+backspace",
-                "command": "-debug.removeBreakpoint",
-                "when": "breakpointsFocused && !breakpointSelected"
-            },
-            {
                 "key": "shift+alt+cmd+b",
                 "command": "java.workspace.compile"
-            },
-            {
-                "key": "shift+alt+b",
-                "command": "-java.workspace.compile"
             },
             {
                 "key": "shift+cmd+u",
@@ -530,18 +496,8 @@
                 "when": "inDebugRepl"
             },
             {
-                "key": "cmd+k",
-                "command": "-editor.action.nextSelectionMatchFindAction",
-                "when": "editorTextFocus"
-            },
-            {
                 "key": "shift+cmd+l",
                 "command": "editor.action.insertCursorAtEndOfEachLineSelected",
-                "when": "editorTextFocus"
-            },
-            {
-                "key": "shift+alt+i",
-                "command": "-editor.action.insertCursorAtEndOfEachLineSelected",
                 "when": "editorTextFocus"
             },
             {
@@ -550,18 +506,8 @@
                 "when": "panelFocus && activePanel == 'workbench.panel.output'"
             },
             {
-                "key": "cmd+shift+o",
-                "command": "-editor.action.organizeImports",
-                "when": "editorTextFocus && !editorReadonly && supportedCodeAction =~ /(\\s|^)source\\.organizeImports\\b/"
-            },
-            {
                 "key": "shift+cmd+o",
                 "command": "editor.action.organizeImports",
-                "when": "editorTextFocus && !editorReadonly && supportedCodeAction =~ /(\\s|^)source\\.organizeImports\\b/"
-            },
-            {
-                "key": "shift+alt+o",
-                "command": "-editor.action.organizeImports",
                 "when": "editorTextFocus && !editorReadonly && supportedCodeAction =~ /(\\s|^)source\\.organizeImports\\b/"
             },
             {
@@ -570,7 +516,7 @@
             },
             {
                 "key": "alt+cmd+tab",
-                "command": "-workbench.action.showAllEditors"
+                "command": "workbench.action.showAllEditors"
             },
             {
                 "key": "cmd+end",
@@ -578,18 +524,8 @@
                 "when": "editorHasImplementationProvider && editorTextFocus && !isInEmbeddedEditor"
             },
             {
-                "key": "cmd+f12",
-                "command": "-editor.action.goToImplementation",
-                "when": "editorHasImplementationProvider && editorTextFocus && !isInEmbeddedEditor"
-            },
-            {
                 "key": "cmd+home",
                 "command": "editor.action.revealDefinition",
-                "when": "editorHasDefinitionProvider && editorTextFocus && !isInEmbeddedEditor"
-            },
-            {
-                "key": "f12",
-                "command": "-editor.action.revealDefinition",
                 "when": "editorHasDefinitionProvider && editorTextFocus && !isInEmbeddedEditor"
             }
         ]
