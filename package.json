@@ -76,7 +76,7 @@
                 "win": "ctrl+h",
                 "linux": "ctrl+h",
                 "key": "ctrl+h",
-                "command": "workbench.view.search"
+                "command": "workbench.view.search.focus"
             },
             {
                 "mac": "cmd+shift+t",
