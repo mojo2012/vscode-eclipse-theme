@@ -1,8 +1,8 @@
 {
 	"name": "vscode-just-eclipse-theme",
 	"displayName": "Just Eclipse Color Theme",
-	"description": "Eclipse syntax color theme for vscode. Original by mojo2012 (https://marketplace.visualstudio.com/items?itemName=mojo2012.vscode-eclipse-theme) had keymaps and some language features, which I removed. Additionally, the theme is tweaked to be more faithful.",
-	"version": "0.0.1",
+	"description": "Eclipse colors for C language.",
+	"version": "0.1.0",
 	"author": {
 		"email": "gecgelcem@gmail.com",
 		"name": "Cem Geçgel",

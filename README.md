@@ -9,6 +9,15 @@ based on
 Original by mojo2012 had keymaps and some language features, which I removed.
 Additionally, the theme is tweaked to be more faithful.
 
-![Screenshot](https://raw.githubusercontent.com/calestialgem/vscode-eclipse-theme/main/resources/screenshot.png "Screenshot")
+**Only tested and designed for the C language!**
+
+![Screenshot1](https://raw.githubusercontent.com/calestialgem/vscode-eclipse-theme/main/resources/screenshot1.png "Screenshot1")
+
+![Screenshot2](https://raw.githubusercontent.com/calestialgem/vscode-eclipse-theme/main/resources/screenshot2.png "Screenshot2")
+
+Screenshots:
+
+- Font: Fira Code Nerd Font
+- Project: [cthrice](https://github.com/calestialgem/cthrice)
 
 **Enjoy!**

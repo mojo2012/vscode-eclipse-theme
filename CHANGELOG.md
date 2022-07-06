@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.1.0
+
+- Tweaked colors to fit Eclipse better for C.
+
 ## 0.0.2
 
 - Removed Java Properties colors.
