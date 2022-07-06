@@ -773,6 +773,7 @@
                 "variable.other.constant"
             ],
             "settings": {
+                "fontStyle": "bold italic",
                 "foreground": "#0000C0"
             }
         },
