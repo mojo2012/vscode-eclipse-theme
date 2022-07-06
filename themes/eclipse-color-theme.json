@@ -908,12 +908,6 @@
             }
         },
         {
-            "scope": "variable.parameter",
-            "settings": {
-                "fontStyle": "bold"
-            }
-        },
-        {
             "scope": [
                 "storage.type.java",
                 "variable.other.object.property",
