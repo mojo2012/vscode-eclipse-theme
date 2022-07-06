@@ -773,7 +773,7 @@
                 "variable.other.constant"
             ],
             "settings": {
-                "foreground": "#2A00FF"
+                "foreground": "#2B00FF"
             }
         },
         {
@@ -792,13 +792,13 @@
                 "string.quoted.double.html"
             ],
             "settings": {
-                "foreground": "#2A00FF"
+                "foreground": "#2B00FF"
             }
         },
         {
             "scope": "string.quoted.double",
             "settings": {
-                "foreground": "#2A00FF"
+                "foreground": "#2B00FF"
             }
         },
         {
@@ -949,7 +949,7 @@
             ],
             "settings": {
                 "fontStyle": "",
-                "foreground": "#2A00FF"
+                "foreground": "#2B00FF"
             }
         },
         {
