@@ -729,7 +729,8 @@
         {
             "scope": "entity.name.type",
             "settings": {
-                "foreground": "#000000"
+                "fontStyle": "",
+                "foreground": "#005032"
             }
         },
         {
@@ -1018,17 +1019,6 @@
             "settings": {
                 "fontStyle": "",
                 "foreground": "#000000"
-            }
-        },
-        {
-            "name": "Types",
-            "scope": [
-                "entity.name.type",
-                "storage.type"
-            ],
-            "settings": {
-                "fontStyle": "",
-                "foreground": "#800555"
             }
         },
         {
