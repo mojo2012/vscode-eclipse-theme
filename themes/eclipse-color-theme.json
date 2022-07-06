@@ -662,7 +662,7 @@
                 "punctuation.separator.key-value"
             ],
             "settings": {
-                "foreground": "#333333"
+                "foreground": "#000000"
             }
         },
         {
