@@ -1274,6 +1274,17 @@
                 "fontStyle": "",
                 "foreground": "#336633"
             }
+        },
+        {
+            "name": "Enum Valus",
+            "scope": [
+                "constant.other.enum",
+                "variable.other.enummember"
+            ],
+            "settings": {
+                "fontStyle": "italic",
+                "foreground": "#0000C0"
+            }
         }
     ],
 }
