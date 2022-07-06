@@ -1077,7 +1077,7 @@
                 "entity.name.function"
             ],
             "settings": {
-                "fontStyle": "bold",
+                "fontStyle": "",
                 "foreground": "#000000"
             }
         },
