@@ -1290,6 +1290,14 @@
                 "foreground": "#644632",
                 "fontStyle": "bold"
             }
+        },
+        {
+            "name": "C++ Attributes",
+            "scope": "entity.other.attribute",
+            "settings": {
+                "foreground": "#000000",
+                "fontStyle": "italic"
+            }
         }
     ],
 }
