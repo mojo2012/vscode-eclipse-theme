@@ -1282,6 +1282,14 @@
                 "fontStyle": "italic",
                 "foreground": "#0000C0"
             }
+        },
+        {
+            "name": "C++ Templates",
+            "scope": "entity.name.type.parameter",
+            "settings": {
+                "foreground": "#644632",
+                "fontStyle": "bold"
+            }
         }
     ],
 }
