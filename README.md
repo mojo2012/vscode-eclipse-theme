@@ -9,7 +9,11 @@ based on
 Original by mojo2012 had keymaps and some language features, which I removed.
 Additionally, the theme is tweaked to be more faithful.
 
-**Only tested and designed for the C language!**
+**Only tested and designed for the C language and C++!**
+
+_Note: In C++ static methods and fields are italic in Eclipse. How ever this is
+not possible to implement in VS Code. Thus, italic is used for attributes, which
+Eclipse does not do anything about. This is a personal decision._
 
 ![Screenshot1](https://raw.githubusercontent.com/calestialgem/vscode-eclipse-theme/main/resources/screenshot1.png "Screenshot1")
 
