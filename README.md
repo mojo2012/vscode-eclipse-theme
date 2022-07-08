@@ -25,6 +25,5 @@ Screenshots:
 - File Icon Theme:
   [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 - Project: [cthrice](https://github.com/calestialgem/cthrice)
-- There is View Zoom applied on the screenshots.
 
 **Enjoy!**
