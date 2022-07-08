@@ -1,6 +1,6 @@
 # Change Log
 
-## 0.3.3
+## 0.3.4
 - New vscode titlebar style fixes
 ## 0.3.0
 - Lots of fixes and java .properties file support
