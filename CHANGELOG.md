@@ -1,5 +1,10 @@
 # Change Log
 
+## 0.4.0
+
+- Fixed color of some C++ parameter Types and Members.
+- Removed unnamed colors and styles from the theme.
+
 ## 0.3.0
 
 - Fixed color and style of C++ templates.
